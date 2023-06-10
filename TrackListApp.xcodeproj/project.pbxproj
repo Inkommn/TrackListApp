@@ -14,6 +14,7 @@
 		1DE314522A3460BD000939A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DE314502A3460BD000939A7 /* LaunchScreen.storyboard */; };
 		1DE3145A2A346A86000939A7 /* TrackListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE314592A346A86000939A7 /* TrackListViewController.swift */; };
 		1DE3145C2A3470C0000939A7 /* Track.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE3145B2A3470C0000939A7 /* Track.swift */; };
+		1DE3145E2A34799E000939A7 /* TrackDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE3145D2A34799E000939A7 /* TrackDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1DE314532A3460BD000939A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1DE314592A346A86000939A7 /* TrackListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackListViewController.swift; sourceTree = "<group>"; };
 		1DE3145B2A3470C0000939A7 /* Track.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Track.swift; sourceTree = "<group>"; };
+		1DE3145D2A34799E000939A7 /* TrackDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				1DE314452A3460BD000939A7 /* AppDelegate.swift */,
 				1DE314472A3460BD000939A7 /* SceneDelegate.swift */,
 				1DE314592A346A86000939A7 /* TrackListViewController.swift */,
+				1DE3145D2A34799E000939A7 /* TrackDetailsViewController.swift */,
 				1DE3145B2A3470C0000939A7 /* Track.swift */,
 				1DE3144B2A3460BD000939A7 /* Main.storyboard */,
 				1DE3144E2A3460BD000939A7 /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 			files = (
 				1DE314462A3460BD000939A7 /* AppDelegate.swift in Sources */,
 				1DE314482A3460BD000939A7 /* SceneDelegate.swift in Sources */,
+				1DE3145E2A34799E000939A7 /* TrackDetailsViewController.swift in Sources */,
 				1DE3145A2A346A86000939A7 /* TrackListViewController.swift in Sources */,
 				1DE3145C2A3470C0000939A7 /* Track.swift in Sources */,
 			);
